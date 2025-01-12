@@ -1,5 +1,5 @@
 # kubernetes-configmap-reload
-
+Note:while doing mvn build make sure u have java version open jdk 1.8 ,otherwise build will fail
 Pre-requisites:
 --------
     - Install Git
